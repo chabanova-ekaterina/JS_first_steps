@@ -39,15 +39,35 @@ console.log(item_3 * item_4)
 
 //   15. Create variable “item_5”
 //   16. Assign item_5 to item_3
+let item_5 = item_3;
+
+
 //   17. Create variable item_6.
-//   18. Create variable item_6_type
 //   19. Set variable item_6 to 15
+let item_6 = 15;
+
+//   18. Create variable item_6_type
 //   20. Assign item_6_type variable the type of item_6 variable
+let item_6_type = item_6;
+
 //   21. Print the item_6 data type to the console as —— “item_6 == ” item_6, “item_6_type == ” item_6_type ——
+console.log(item_6, typeof (item_6))
+console.log(item_6_type, typeof (item_6_type))
+console.log("item_6 == "+item_6, "item_6_type == "+item_6_type )
+
+
 //   22. Create variable item_7 and convert item_6 to String in it.
+let item_7 = "item_7";
+
 //   23. Create variable item_7_type
 //   24. Assign item_7_type variable the type of item_7 variable
+let item_7_type = item_7;
+
 //   25. Print the item_7 data type to the console as —— “item_7 == ” item_7, “item_7_type == ” item_7_type ——
+console.log(item_7, typeof (item_7))
+console.log(item_7_type, typeof (item_7_type))
+console.log("item_7 == "+item_7, "item_7_type == "+item_7_type )
+
 //   26. Create a variable "age_1" and assign the value 10 to it
 //   27. Create variable “age_2” and assign value 18 to it
 //   28. Create variable “age_3” and assign value 60 to it
