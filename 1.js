@@ -65,6 +65,7 @@ let age_1 = 10;
 
 //   27. Create variable “age_2” and assign value 18 to it
 let age_2 = 18;
+
 //   28. Create variable “age_3” and assign value 60 to it
 let age_3 = 60;
 //   29. Create an if in which you will check the value of the variable age_1
