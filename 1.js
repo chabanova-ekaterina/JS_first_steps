@@ -79,6 +79,7 @@ if (age_1 < age_2){
 else if (age_1 >= age_2, age_1 < age_3){
   console.log("Welcome!")
 }
+
 //   32. If age_1 > age_3, output “Keep calm and look Culture channel” to the console.
 else if (age_1 > age_3){
   console.log("Keep calm and look Culture channel")
