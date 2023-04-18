@@ -68,6 +68,7 @@ let age_2 = 18;
 
 //   28. Create variable “age_3” and assign value 60 to it
 let age_3 = 60;
+
 //   29. Create an if in which you will check the value of the variable age_1
 //   30. If age_1 < age_2, print to console “You don’t have access cause your age is” + age_1 + “It’s less then”
 if (age_1 < age_2){
