@@ -62,6 +62,7 @@ console.log("item_7 == "+item_7, "item_7_type == "+item_7_type )
 
 //   26. Create a variable "age_1" and assign the value 10 to it
 let age_1 = 10;
+
 //   27. Create variable “age_2” and assign value 18 to it
 let age_2 = 18;
 //   28. Create variable “age_3” and assign value 60 to it
